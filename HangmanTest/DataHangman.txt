@@ -1,0 +1,13 @@
+Category,Word,Hint
+English Premiere League Teams|Manchester City|Etihad Stadium
+English Premiere League Teams|Chelsea,Stamford Bridge
+English Premiere League Teams|Manchester United|Old Trafford
+English Premiere League Teams|Arsenal|Emirates Stadium
+English Premiere League Teams|Leicester City|King Power Stadium
+English Premiere League Teams|Liverpool|Anfield
+English Premiere League Teams|Newcastle United|St. James' Park
+Movies|Harry Potter|Characters In The Movie : Ron Weasley,Hermione Granger,Lord Voldemort
+Movies|Star wars|Characters In The Movie : Princess Leia,Han Solo,Luke Skywalker
+Movies|The Lord of the Rings|Characters In The Movie : Gandalf,Aragorn,Gollum
+Movies|Fast and Furious|Characters In The Movie : Brian O'Conner,Letty,Diminic Toretto
+Movies|Interstellar|Characters In The Movie : Cooper,Murph,Tom Toretto
